@@ -1,6 +1,6 @@
 configuration {
 	modi:				"drun";
-	font:				"Product Sans 40";
+	font:				"Product Sans 10";
 	show-icons:                     true;
 	icon-theme: 			"Reversal-dark";
 	display-drun: 			"";
