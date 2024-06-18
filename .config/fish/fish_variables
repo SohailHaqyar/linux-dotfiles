@@ -1,6 +1,10 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_cda:zoxide\x20add
+SETUVAR _fish_abbr_cdq:zoxide\x20query
+SETUVAR _fish_abbr_cdqi:zoxide\x20query\x20\x2di
+SETUVAR _fish_abbr_cdr:zoxide\x20remove
 SETUVAR _fish_abbr_mux:tmuxinator
 SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
 SETUVAR _fisher_jorgebucaran_2F_nvm_2E_fish_files:\x7e/\x2econfig/fish/functions/_nvm_index_update\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_list\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_activate\x2efish\x1e\x7e/\x2econfig/fish/functions/_nvm_version_deactivate\x2efish\x1e\x7e/\x2econfig/fish/functions/nvm\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/nvm\x2efish\x1e\x7e/\x2econfig/fish/completions/nvm\x2efish
@@ -33,5 +37,5 @@ SETUVAR fish_pager_color_completion:\x1d
 SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
-SETUVAR fish_user_paths:/opt/nvim
+SETUVAR fish_user_paths:/home/kaka_sohail/Downloads/zig\x2dlinux\x2dx86_64\x2d0\x2e12\x2e0\x1e/home/kaka_sohail/Downloads/zig\x2dlinux\x2dx86_64\x2d0\x2e14\x2e0\x2ddev\x2e61\x2b04e08ea88\x1e/opt/nvim
 SETUVAR nvm_default_version:22

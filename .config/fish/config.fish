@@ -5,7 +5,7 @@ starship init fish | source
 set -gx NVM_DIR $HOME/.nvm
 set -gx EDITOR nvim
 
-zoxide init --cmd cd fish | source
+# zoxide init --cmd cd fish | source
 
 fastfetch
 set fish_greeting
